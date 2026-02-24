@@ -1,0 +1,8 @@
+Promt from gpt:
+1.jelaskan lebih detaik TO2 file dan gambar yang saya kirim agar saya betul paham
+2.coba jelaskan dari gambar tersebut
+3.darimana kita tau n nya itu 10 aku kurng paham
+4.berarti pola yang diberikan adalah deret?
+5.coba jelskan kenapa tugas ini memeakai array?
+6.berikan solusi nya
+7.pada code ganti public class T02 menjadi public class Driver2 hanya itu saja ubah
