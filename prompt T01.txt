@@ -1,0 +1,8 @@
+Promt from GPT:
+1.coba berikan atau bantu saya untuk memahami to1 ini
+2.apa yang sebenarnya diuji pada tugas tersebut
+3.jadi dr file dan gambar yqang saya berikan coba berikan code nya karena yang diminta kan solusi melalui code agar input dan outpunya sesuai pd yang diminta soal
+4.apakah ini sudah sesuai soal yg diminta?
+5.begini yang diminta
+6.jadi kalau input yang diminta saya terapkan dan sesuai pada input yang diminta pada soal yang saya berikan apakah sudh pas?
+7.okei berikan kode yang benar dari semua yang sudah tanyakan
